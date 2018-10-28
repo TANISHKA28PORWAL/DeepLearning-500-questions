@@ -19,7 +19,9 @@
   6. 最新提出的 LIPO 的全局优化方法。这个方法没有参数，而且经验证比随机搜索方法好。
   
 ### 已提交MD版本章节：请查看MarkDown（排名不分先后）
-待定：表示该章节还未匹配到合适的负责人（统筹该章节的内容修改、审核、原创性陈述）   
+待定：表示该章节还未匹配到合适的负责人（统筹该章节的内容修改、审核、原创性陈述）  
+### Submitted MD version chapter: Please check MarkDown (in no particular order)
+Pending: Indicates that the section has not been matched to the appropriate person in charge (to co-ordinate the content modification, review, original statement of the chapter)
 可加：表示该章节，如果有其他合适的，可以开放权限加到负责人身份   
 
 第一章 数学基础    负责人：哈工大博士-袁笛     
